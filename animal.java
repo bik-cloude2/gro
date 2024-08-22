@@ -1,5 +1,6 @@
 lion
 tiger
 fox
-dear
+deer
 bear
+dog
